@@ -1,6 +1,10 @@
 # Java
 A collection of Java projects, which are focused on object-oriented programming, file handling, arrays, data structures, user input, simulations, and basic graph/path-finding logic.
 
+## Language
+
+The application interface and code comments are written in Slovenian.
+
 ---
 ### 1. Matrix simulation
 
