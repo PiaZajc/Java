@@ -1,0 +1,22 @@
+A Java program for reading flight connections from a file and finding possible routes between selected airports.
+
+The program reads one-way flight connections written with IATA airport codes, such as LJU-VCE. The user selects a starting and destination airport, 
+and the program prints all possible routes with a direct flight, one transfer, or two transfers.
+
+
+## Features
+
+- Reads flight connections from a text file
+- Processes airport codes and one-way routes
+- Allows the user to choose start and destination airports
+- Finds direct flights
+- Finds routes with one or two transfers
+
+## Technologies
+
+- Java
+- File handling
+- Strings
+- Data structures
+- Loops and conditions
+- Basic path-finding logic

@@ -1,0 +1,24 @@
+An object-oriented Java application that simulates a package locker system.
+
+The application includes separate classes for packages, lockers, and the locker system. Users can check available lockers, 
+deliver packages, and collect packages based on the recipient name and locker ID. 
+The program also checks package size and places each package into the smallest suitable available locker.
+
+
+## Features
+
+- Object-oriented structure with multiple classes
+- Package delivery functionality
+- Package pickup functionality
+- Checking available lockers
+- Locker size validation
+- User interaction through the command line
+
+## Technologies
+
+- Java
+- Object-oriented programming
+- Classes and objects
+- Constructors and methods
+- Arrays of objects
+- User input

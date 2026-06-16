@@ -1,0 +1,19 @@
+A Java program that generates and updates a two-dimensional matrix based on predefined neighbour rules. 
+The project demonstrates working with 2D arrays, loops, conditions, random values, and user input.
+
+## Features
+
+- Generates a 2D matrix using user-defined dimensions
+- Uses random values based on probability
+- Checks up to 8 neighbouring cells
+- Updates the matrix through multiple simulation steps
+- Prints the matrix after each step
+
+
+## Technologies
+
+- Java
+- 2D arrays
+- Loops and conditions
+- Random values
+- User input
